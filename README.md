@@ -9,7 +9,7 @@ During the test, the candidate is allowed to edit the source code of the project
 Check out how the test looks from candidate's perspective: [Candidate campaign preview](https://www.youtube.com/watch?v=rB4fViXPh5E)
 
 
-This repo contains an example project for Java with Maven, below you can find a detailed guide for creating your own programming project. 
+This repo contains an example project for Groovy with Gradle, below you can find a detailed guide for creating your own programming project. 
 
 Please make sure to read our [Getting started with programming projects](https://docs.devskiller.com/programming_task/index.html) guides first 
 
