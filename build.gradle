@@ -1,0 +1,17 @@
+group 'com.devskiller.sample'
+version '1.0'
+
+apply plugin: 'groovy'
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.3.11'
+    testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
+}
